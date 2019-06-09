@@ -1,0 +1,23 @@
+{
+  "name": "titask",
+  "version": "1.0.0",
+  "description": "A simple way to manage your projects and tasks.",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Mr Ezak",
+  "license": "ISC",
+  "prettier": {
+    "semi": false
+  }
+}
