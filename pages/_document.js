@@ -31,7 +31,7 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <style>{`body { margin: 0; padding:0; box-sizing: border-box; }`}</style>
+          <style>{`body { overflow: hidden; margin: 0; padding:0; box-sizing: border-box; }`}</style>
         </Head>
         <body className="custom_class">
           <Main />
