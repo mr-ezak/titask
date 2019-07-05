@@ -31,6 +31,10 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
+          <link
+            href="https://fonts.googleapis.com/css?family=Montserrat&display=swap"
+            rel="stylesheet"
+          />
           <style>{`body { overflow: hidden; margin: 0; padding:0; box-sizing: border-box; }`}</style>
         </Head>
         <body className="custom_class">
