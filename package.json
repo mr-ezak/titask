@@ -4,7 +4,7 @@
   "description": "A simple way to manage your projects and tasks.",
   "main": "index.js",
   "dependencies": {
-    "next": "^8.1.0",
+    "next": "^13.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "styled-components": "^4.3.1"
